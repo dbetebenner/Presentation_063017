@@ -1,2 +1,3 @@
-# Presentation_063017
-CCSSO/NCSA Presentation for Session on Growth and Prediction: Informing Instructional Decisions in the Era of ESSA
+# [June 30th, 2017 NCSA/CCSSO Presentation](https://dbetebenner.github.io/Presentation_063017/)
+
+## Validating Student Growth in Accountability System Design
